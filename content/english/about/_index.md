@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Vidhya Venkatesan!"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+As a web developer with over 7 years of experience, I have a proven track record of delivering high-quality websites that exceed my clients' expectations.
+
+I am passionate about using the latest technologies and tools to create innovative and engaging user experiences. Whether it's building a custom CMS or integrating the latest AI technology, I am always up for a challenge.
